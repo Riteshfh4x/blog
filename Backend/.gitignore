@@ -1,1 +1,7 @@
 node_modules
+
+
+git init
+git add .
+git commit -am "msg"
+git push
