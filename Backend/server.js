@@ -20,6 +20,7 @@ app.post("/register", (req, res) => {
 app.post("/createblog", (req, res) => {
     res.send("HOME PART BACKEND")
     console.log(req.body)
+    'cheking'
 })
 
 app.listen(8000, () => console.log("running backend on 8000"))
